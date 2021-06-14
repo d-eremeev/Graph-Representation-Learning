@@ -1,7 +1,7 @@
 # Materials for <font color=#1F45FC> "Introduction to Graph Representation Learning" </font> mini-course.
 
 ### <a href="https://github.com/d-eremeev/">Dmitry Eremeev</a>
-<img src="Seminars/pictures/MP.jpg" width=700>
+<img src="Seminars/pictures/MP.jpg" width=650>
 
 The mini-course covers the basics of **Graph Representation Learning** / **Graph Neural Networks**. 
 
