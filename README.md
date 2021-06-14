@@ -8,10 +8,10 @@ The mini-course covers the basics of **Graph Representation Learning** / **Graph
 The following topics are included:
 - Motivation for graph representation learning. Several examples of benchmarks.
 - Brief review of graph and matrix theory, notion of embeddings.
-- Necessary **NLP** models reminder: from **word2vec** to **Transformers**. 
-- **Random Walk** Graph Embeddings: **node2vec**, **struct2vec**.
-- **Message Passing** Embeddings: **GraphSAGE**, **Graph Attention Network**.
-- **Unsupervised** Graph Embeddings, notion of **Triplet Loss**.
+- Necessary NLP models reminder: from **word2vec** to **Transformers**. 
+- Random Walk Graph Embeddings: **node2vec**, **struct2vec**.
+- Message Passing Embeddings: **GraphSAGE**, **Graph Attention Network**.
+- Unsupervised Graph Embeddings, notion of **Triplet Loss**.
 
 Repository is organized as follows:
 - <font color=#2B60DE>**Graph_Slides.pdf** </font> - materials for the lectures
