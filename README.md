@@ -20,4 +20,6 @@ Repository is organized as follows:
     2. <font color=#2B60DE>**GraphModel_Supervised.ipynb**</font> - acquaints with <font color=#EE4C2C>**NeighborSampler**</font> and the concept of **mini-batch learning** on large graphs. Then the training process of supervised **Graph Attention Network** is covered.
     3. <font color=#2B60DE>**GraphModel_Unsupervised.ipynb**</font> - covers training of unsupervised **GraphSAGE** model. Visualization of resulting node embeddings using **UMAP** is included.
   
+We recommend to download *ipynb* files for correct/proper display of HTML elements.
+
 <img src="Seminars/pictures/CORA embeddings.png" width=700>
